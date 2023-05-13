@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-sevgilim-tirtil/static/css/main.d9bbd3bd.css",
+    "main.js": "/react-sevgilim-tirtil/static/js/main.5cfeeb0a.js",
+    "static/js/787.d059fc46.chunk.js": "/react-sevgilim-tirtil/static/js/787.d059fc46.chunk.js",
+    "static/media/broken-heart.png": "/react-sevgilim-tirtil/static/media/broken-heart.7947d52e584138151788.png",
+    "static/media/heart.png": "/react-sevgilim-tirtil/static/media/heart.a13e3857c7c7f11756ac.png",
+    "index.html": "/react-sevgilim-tirtil/index.html",
+    "main.d9bbd3bd.css.map": "/react-sevgilim-tirtil/static/css/main.d9bbd3bd.css.map",
+    "main.5cfeeb0a.js.map": "/react-sevgilim-tirtil/static/js/main.5cfeeb0a.js.map",
+    "787.d059fc46.chunk.js.map": "/react-sevgilim-tirtil/static/js/787.d059fc46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9bbd3bd.css",
+    "static/js/main.5cfeeb0a.js"
+  ]
+}
